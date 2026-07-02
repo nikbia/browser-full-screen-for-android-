@@ -1,4 +1,4 @@
-# Kiosk Browser
+# UI24R Browser full screen
 
 App Android minimale che apre a schermo intero, senza barra degli indirizzi e senza pulsanti,
 la pagina web all'indirizzo `http://192.168.1.10`.
